@@ -1,11 +1,11 @@
 {
-  "name": "hapi-swagger",
+  "name": "hapi-swagger-fix",
   "description": "A swagger documentation UI generator plugin for hapi",
   "version": "9.1.1",
-  "author": "Glenn Jones",
+  "author": "Ganesh Karewad",
   "repository": {
     "type": "git",
-    "url": "git://github.com/glennjones/hapi-swagger.git"
+    "url": "https://github.com/ganesh-karewad/hapi-swagger.git"
   },
   "main": "index.js",
   "keywords": [

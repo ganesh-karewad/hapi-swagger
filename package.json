@@ -1,7 +1,7 @@
 {
   "name": "hapi-swagger-fix",
   "description": "A swagger documentation UI generator plugin for hapi",
-  "version": "9.1.1",
+  "version": "9.1.2",
   "author": "Ganesh Karewad",
   "repository": {
     "type": "git",

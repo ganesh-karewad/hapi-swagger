@@ -1,3 +1,7 @@
+# note
+
+This is a temporary repository. A fix for host ip 0.0.0.0 is apllied in this package. once original swagger authors fixes the bug this repository will be removed. 
+
 # hapi-swagger
 
 This is a [OpenAPI (aka Swagger)](https://openapis.org/) plug-in for [HAPI](http://hapijs.com/) When installed it will self document the API interface
